@@ -45,7 +45,7 @@
 </tr>
 </table>
 
-> 📎 **Direct Image Link:** `https://raw.githubusercontent.com/YOUR_USERNAME/certificates/main/Ai_certificate-yhills.png`  
+> 📎 **Direct Image Link:** `https://raw.githubusercontent.com/Gauravjainn27/certificates/main/Ai_certificate-yhills.png`  
 > *(Replace `YOUR_USERNAME` with your actual GitHub username after upload)*
 
 ---
@@ -80,7 +80,7 @@
 </tr>
 </table>
 
-> 📎 **Direct Image Link:** `https://raw.githubusercontent.com/YOUR_USERNAME/certificates/main/MERN_full-stack_web_dev-certificate.png`  
+> 📎 **Direct Image Link:** `https://raw.githubusercontent.com/Gauravjainn27/certificates/main/MERN_full-stack_web_dev-certificate.png`  
 > *(Replace `YOUR_USERNAME` with your actual GitHub username after upload)*
 
 ---
@@ -91,13 +91,13 @@ Copy the raw image URLs below and paste them directly into your resume PDF or do
 
 ```
 AI Internship (YHills):
-https://raw.githubusercontent.com/YOUR_USERNAME/certificates/main/Ai_certificate-yhills.png
+https://raw.githubusercontent.com/Gauravjainn27/certificates/main/Ai_certificate-yhills.png
 
 MERN Full-Stack (30 Days Coding):
-https://raw.githubusercontent.com/YOUR_USERNAME/certificates/main/MERN_full-stack_web_dev-certificate.png
+https://raw.githubusercontent.com/Gauravjainn27/certificates/main/MERN_full-stack_web_dev-certificate.png
 
 Full Certificates Page:
-https://github.com/YOUR_USERNAME/certificates
+https://github.com/Gauravjainn27/certificates
 ```
 
 ---
